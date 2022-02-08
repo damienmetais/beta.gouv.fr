@@ -4,7 +4,7 @@ role: UX UI Designer
 domaine: Design
 missions:
   - start: 2020-10-26
-    end: 2021-12-27
+    end: 2022-12-27
     status: independent
     employer: Octo
 startups:
